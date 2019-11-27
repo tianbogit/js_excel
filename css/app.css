@@ -1,0 +1,15 @@
+* {
+    font-family: 'Microsoft Yahei';
+}
+thead{
+    margin-bottom: 15px;
+    height: 50px;
+    background-color: #364a5f;
+    color: #fff;
+    font-size: 8px;
+    font-weight: 800;
+    z-index: 999;
+}
+td{
+    font-size: 14px;
+}
